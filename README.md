@@ -1,4 +1,4 @@
-## **README.md Descontraído para o seu Projeto de Pesquisa de Atletas**
+## **Descontraído para o seu Projeto de Pesquisa de Atletas**
 
 ### **O que é esse negócio?**
 
