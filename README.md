@@ -1,4 +1,4 @@
-## **Descontraído para o seu Projeto de Pesquisa de Atletas**
+## **Projeto de Pesquisa de Atletas - Imersão Dev com Google Germini**
 
 ### **O que é esse negócio?**
 
